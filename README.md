@@ -64,4 +64,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Python For Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/python-for-data-science-a-complete-roadmap-to-be-a-data-scientist-231dc86a4162?source=rss-b38e15b71829------2)
+- [#30Days30Companies : How Google Uses Data Analytics](https://medium.com/@datasthan/30days30companies-how-google-uses-data-analytics-700b5582a940?source=rss-b38e15b71829------2)
+- [#30days30companies : How Facebook Uses Data Analytics](https://medium.com/@datasthan/30days30companies-how-facebook-uses-data-analytics-b2e6cbcd0adc?source=rss-b38e15b71829------2)
 <!-- BLOG-POST-LIST:END -->
