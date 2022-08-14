@@ -68,3 +68,4 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - [#30Days30Companies : How Google Uses Data Analytics](https://medium.com/@datasthan/30days30companies-how-google-uses-data-analytics-700b5582a940?source=rss-b38e15b71829------2)
 - [#30days30companies : How Facebook Uses Data Analytics](https://medium.com/@datasthan/30days30companies-how-facebook-uses-data-analytics-b2e6cbcd0adc?source=rss-b38e15b71829------2)
 <!-- BLOG-POST-LIST:END -->
+
