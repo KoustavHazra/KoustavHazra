@@ -64,9 +64,9 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Advanced SQL for Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/advanced-sql-for-data-science-11c6cafc829?source=rss-b38e15b71829------2)
 - [Introduction to SQL for Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/introduction-to-sql-for-data-science-a-complete-roadmap-to-be-a-data-scientist-37d77eecfab8?source=rss-b38e15b71829------2)
 - [Data Visualization In Python: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/data-visualization-in-python-2bc93894caa0?source=rss-b38e15b71829------2)
 - [12 NumPy Methods For Beginners: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/12-numpy-methods-for-beginners-aebc009de16a?source=rss-b38e15b71829------2)
-- [12 Pandas Methods To Master: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/12-pandas-methods-you-should-always-remember-6d30044e6fbb?source=rss-b38e15b71829------2)
 <!-- BLOG-POST-LIST:END -->
 
