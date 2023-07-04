@@ -30,7 +30,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as an Automation Engineer and driving business value through automating CLM( Certificate Lifecycle Management ).
 
