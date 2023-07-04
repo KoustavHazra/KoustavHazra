@@ -32,11 +32,11 @@
 ### :man_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as an Automation Engineer and driving business value through automating CLM( Certificate Lifecycle Management ).
+- :zap: I drive business value by optimizing scalability, data security, and system reliability while enabling seamless integrations and fostering collaboration for innovative solutions.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I  read tech articles and play games.
+- :telescope: In my free time, I love to do astrophotography.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koustav-hazra-/)
 
