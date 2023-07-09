@@ -44,13 +44,14 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy"  alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SaaS" alt="SaaS" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://media.giphy.com/media/EvG0swLUXMRE5QrleR/giphy.gif" title="Django"  alt="Django" width="80" height="40"/>&nbsp;
+  <img src="https://media.giphy.com/media/C8Tij3iox3coBSqVWE/giphy.gif" title="MySQL"  alt="MySQL" width="80" height="40"/>&nbsp;
+  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" title="JavaScript"  alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" title="Git" **alt="Git" width="80" height="40"/>
 </div>
 
 ---
@@ -62,11 +63,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [NoSQL Fundamentals For Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/nosql-fundamentals-for-data-science-65e33209c017?source=rss-b38e15b71829------2)
-- [Advanced SQL For Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/advanced-sql-for-data-science-11c6cafc829?source=rss-b38e15b71829------2)
-- [Introduction to SQL for Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/introduction-to-sql-for-data-science-a-complete-roadmap-to-be-a-data-scientist-37d77eecfab8?source=rss-b38e15b71829------2)
-- [Data Visualization In Python: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/data-visualization-in-python-2bc93894caa0?source=rss-b38e15b71829------2)
-<!-- BLOG-POST-LIST:END -->
-
+<div align="center">
+  <img src="https://media.giphy.com/media/vaCfH4WZ6kE4Jel6K5/giphy.gif" width="300" height="300"/>
+</div>
