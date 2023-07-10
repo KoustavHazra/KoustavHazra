@@ -63,6 +63,17 @@ I am a Backend Developer <img src="https://media.giphy.com/media/NWkT8IM7WoQXSJR
 
 ---
 
+<!-- BLOG-POST-LIST:START -->
+
+- [NoSQL Fundamentals For Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/nosql-fundamentals-for-data-science-65e33209c017?source=rss-b38e15b71829------2)
+- [Advanced SQL For Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/advanced-sql-for-data-science-11c6cafc829?source=rss-b38e15b71829------2)
+- [Introduction to SQL for Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/introduction-to-sql-for-data-science-a-complete-roadmap-to-be-a-data-scientist-37d77eecfab8?source=rss-b38e15b71829------2)
+- [Data Visualization In Python: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/data-visualization-in-python-2bc93894caa0?source=rss-b38e15b71829------2)
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/vaCfH4WZ6kE4Jel6K5/giphy.gif" width="300" height="300"/>
 </div>
