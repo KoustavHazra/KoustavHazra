@@ -30,7 +30,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif" width="30"> from India.
+I am a Software Developer <img src="https://media.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif" width="30"> from India.
 
 - :zap: I drive business value by optimizing scalability, data security, and system reliability while enabling seamless integrations and fostering collaboration for innovative solutions.
 
