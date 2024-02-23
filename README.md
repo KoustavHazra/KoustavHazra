@@ -1,77 +1,39 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Koustav Hazra
+=====================================================================================================================================
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/koustav-hazra-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@datasthan">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://fueler.io/koustav">
-    <img src="https://img.shields.io/badge/Fueler.io-cyan?style=for-the-badge&logo=blog&logoColor=navy" alt="Twitter Badge"/>
-  </a>
-</div>
+Software Developer
+------------------
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=KoustavHazra&style=flat-square&color=blue" alt=""/>
-</div>
+Experienced developer adept at optimizing scalability, ensuring data security, and enhancing system reliability to drive business value. Skilled in MERN stack, Next.js, Python, and Django development, with a passion for creating innovative full-stack applications and fostering collaboration for seamless integrations.
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+* 🌍  I'm based in Bengaluru, India.
+* ✉️  You can contact me at [hazrakoustav12@gmail.com](mailto:hazrakoustav12@gmail.com)
+* 🚀  I'm currently working on [Kitkode: Leetcode clone](http://github.com/KoustavHazra/kitkode)
+* 🧠  I'm learning MERN stack + NEXT.Js
+* ⚡  I just love to do astrophotography.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="600" height="300"/>
-</div>
+### Skills
 
----
 
-### :man_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif" width="30"> from India.
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+</p>
 
-- :zap: I drive business value by optimizing scalability, data security, and system reliability while enabling seamless integrations and fostering collaboration for innovative solutions.
 
-- :seedling: Exploring Technical Content Writing.
+### Socials
 
-- :telescope: In my free time, I love to do astrophotography.
+<p align="left"> <a href="https://www.github.com/KoustavHazra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/re_creat0r" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/koustav-hazra-/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@datasthan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koustav-hazra-/)
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://media.giphy.com/media/EvG0swLUXMRE5QrleR/giphy.gif" title="Django"  alt="Django" width="80" height="40"/>&nbsp;
-  <img src="https://media.giphy.com/media/C8Tij3iox3coBSqVWE/giphy.gif" title="MySQL"  alt="MySQL" width="80" height="40"/>&nbsp;
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" title="JavaScript"  alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" title="Git" **alt="Git" width="80" height="40"/>
-</div>
+<a href="http://www.github.com/KoustavHazra"><img src="https://github-readme-stats.vercel.app/api?username=KoustavHazra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KoustavHazra's GitHub stats" /></a>
 
----
+<a href="http://www.github.com/KoustavHazra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KoustavHazra&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KoustavHazra&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://github.com/KoustavHazra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoustavHazra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoustavHazra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<b>Top Repositories</b>
 
----
-
-<!-- BLOG-POST-LIST:START -->
-- [NoSQL Fundamentals For Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/nosql-fundamentals-for-data-science-65e33209c017?source=rss-b38e15b71829------2)
-- [Advanced SQL For Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/advanced-sql-for-data-science-11c6cafc829?source=rss-b38e15b71829------2)
-- [Introduction to SQL for Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/introduction-to-sql-for-data-science-a-complete-roadmap-to-be-a-data-scientist-37d77eecfab8?source=rss-b38e15b71829------2)
-- [Data Visualization In Python: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/data-visualization-in-python-2bc93894caa0?source=rss-b38e15b71829------2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/vaCfH4WZ6kE4Jel6K5/giphy.gif" width="300" height="300"/>
-</div>
+<div width="100%" align="center"><a href="https://github.com/KoustavHazra/kitkode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KoustavHazra&repo=kitkode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KoustavHazra/amazon-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KoustavHazra&repo=amazon-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
