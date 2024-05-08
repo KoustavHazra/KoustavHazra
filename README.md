@@ -6,10 +6,10 @@ Software Developer
 
 Experienced developer adept at optimizing scalability, ensuring data security, and enhancing system reliability to drive business value. Skilled in Java, Spring Boot, JavaScript, React.Js, REST APIs, and databases like MySQL and MongoDB, with a passion for creating innovative full-stack applications and fostering collaboration for seamless integrations.
 
-* 🌍  I'm based in Bengaluru, Karnataka, India
+* 🌍  I'm based in Bengaluru, Karnataka, India.
 * ✉️  You can contact me at [hazrakoustav12@gmail.com](mailto:hazrakoustav12@gmail.com)
 * 🚀  I'm currently working on [KitKode: A new generation Leetcode](http://github.com/KoustavHazra/kitkode)
-* 🧠  I'm learning Spring Boot + DevOps
+* 🧠  I'm mastering Spring Boot + DevOps.
 * ⚡  I just love to do astrophotography.
 
 <a href="https://www.github.com/KoustavHazra" target="_blank" rel="noreferrer"><img
