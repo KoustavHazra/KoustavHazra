@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Experienced developer adept at optimizing scalability, ensuring data security, and enhancing system reliability to drive business value. Skilled in MERN stack, Next.js, Python, and Django development, with a passion for creating innovative full-stack applications and fostering collaboration for seamless integrations.
+Experienced developer adept at optimizing scalability, ensuring data security, and enhancing system reliability to drive business value. Skilled in Java, Spring Boot, JavaScript, React.Js, REST APIs, and databases like MySQL and MongoDB, with a passion for creating innovative full-stack applications and fostering collaboration for seamless integrations.
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [hazrakoustav12@gmail.com](mailto:hazrakoustav12@gmail.com)
