@@ -10,7 +10,7 @@ Experienced developer adept at optimizing scalability, ensuring data security, a
 * ✉️  You can contact me at [hazrakoustav12@gmail.com](mailto:hazrakoustav12@gmail.com)
 * 🚀  I'm currently working on [KitKode: A new generation Leetcode](http://github.com/KoustavHazra/kitkode)
 * 🧠  I'm mastering Spring Boot + DevOps.
-* ⚡  I just love to do astrophotography.
+* ⚡  I love to do astrophotography.
 
 <a href="https://www.github.com/KoustavHazra" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KoustavHazra?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
